@@ -59,9 +59,11 @@ weight = 20  # Order that this section will appear.
 </head>
 <div class="col-20">
  <h1><strong>Xinyi Zhang </strong></h1><ul class=network-icon aria-hidden=true><li><a href=/#contact><i class="fas fa-envelope fa-lg"></i></a></li><li><a href="https://github.com/stannewone" target=_blank rel=noopener><i class="fab fa-github fa-lg" target=_blank rel=noopener></i></a></li><li><a href="https://www.roboticmanipulation.org" target=_blank rel=noopener><i class="fas fa-graduation-cap fa-lg"></i></a></li></ul>
-
+</div>
+<br />
+<div class="col-20">
  I am a Ph.D. student at Harada Lab, Osaka University, advised by Professor Harada Kenuke. My research topic is about vision-based industrial picking for complex scenarios. Specifically, I am working on complex motion generation and planning for bin-picking. 
-
+</div>
 <!-- <div>
 <ul class=network-icon aria-hidden=true>
   <li>
@@ -75,6 +77,7 @@ weight = 20  # Order that this section will appear.
   </li>
 </ul>
 </div> -->
+<div>
 <span>
   <ul class=network-icon aria-hidden=true>
     <li>🤖️</li>
