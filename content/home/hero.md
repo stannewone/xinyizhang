@@ -2,13 +2,13 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear.
 
-title = "Academic"
+# title = "Xinyi Zhang"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+# hero_media = "hero-academic.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -36,23 +36,57 @@ hero_media = "hero-academic.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
+#[cta]
+#  url = "https://sourcethemes.com/academic/docs/install/"
+#  label = "Get Started"
+#  icon_pack = "fas"
+#  icon = "download"
   
-[cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+#[cta_alt]
+#  url = "https://sourcethemes.com/academic/"
+#  label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+#[cta_note]
+#  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
 
-Build **Anything** with Widgets
+<head>
+  <style type="text/css">
+    h1{display:inline}
+  </style>
+</head>
+<div class="col-20">
+ <h1><strong>Xinyi Zhang </strong></h1><ul class=network-icon aria-hidden=true><li><a href=/#contact><i class="fas fa-envelope fa-lg"></i></a></li><li><a href="https://github.com/stannewone" target=_blank rel=noopener><i class="fab fa-github fa-lg" target=_blank rel=noopener></i></a></li><li><a href="https://www.roboticmanipulation.org" target=_blank rel=noopener><i class="fas fa-graduation-cap fa-lg"></i></a></li></ul>
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+ I am a Ph.D. student at Harada Lab, Osaka University, advised by Professor Harada Kenuke. My research topic is about vision-based industrial picking for complex scenarios. Specifically, I am working on complex motion generation and planning for bin-picking. 
+
+<!-- <div>
+<ul class=network-icon aria-hidden=true>
+  <li>
+    <a href=/#contact><i class="fas fa-envelope big-icon"></i></a>
+  </li>
+  <li>
+    <a href=https://twitter.com/GeorgeCushen target=_blank rel=noopener><i class="fab fa-github big-icon"></i></a>
+  </li>
+  <li>
+    <a href=https://www.linkedin.com/in/cushen target=_blank rel=noopener><i class="fas fa-graduation-cap big-icon"></i></a>
+  </li>
+</ul>
+</div> -->
+<span>
+  <ul class=network-icon aria-hidden=true>
+    <li>🤖️</li>
+    <li>🐱</li>
+    <li>📹</li>
+    <li>🎸</li>
+    <li>🎹</li>
+    <li>🏀</li>
+    <li>🏃‍</li>
+  </ul>
+</span>
+</div>
+
+
+
