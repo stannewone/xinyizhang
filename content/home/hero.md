@@ -58,7 +58,7 @@ weight = 20  # Order that this section will appear.
   </style>
 </head>
 <div class="col-20">
- <h1><strong>Xinyi Zhang&nbsp;&nbsp;&nbsp;</strong></h1><ul class=network-icon aria-hidden=true><li><a href=/#contact><i class="fas fa-envelope fa-lg"></i></a></li><li><a href="https://github.com/stannewone" target=_blank rel=noopener><i class="fab fa-github fa-lg" target=_blank rel=noopener></i></a></li><li><a href="https://www.roboticmanipulation.org" target=_blank rel=noopener><i class="fas fa-graduation-cap fa-lg"></i></a></li></ul>
+ <h1><strong>Xinyi Zhang&nbsp;</strong></h1><ul class=network-icon aria-hidden=true><li><a href=/#contact><i class="fas fa-envelope fa-lg"></i></a></li><li><a href="https://github.com/stannewone" target=_blank rel=noopener><i class="fab fa-github fa-lg" target=_blank rel=noopener></i></a></li><li><a href="https://www.roboticmanipulation.org" target=_blank rel=noopener><i class="fas fa-graduation-cap fa-lg"></i></a></li></ul>
 </div>
 <br />
 <div class="col-20">
