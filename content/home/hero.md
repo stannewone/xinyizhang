@@ -64,6 +64,7 @@ weight = 20  # Order that this section will appear.
 <div class="col-20">
  I am a Ph.D. student at Harada Lab, Osaka University, advised by Professor Harada Kenuke. My research topic is about vision-based industrial picking for complex scenarios. Specifically, I am working on complex motion generation and planning for bin-picking. 
 </div>
+<br />
 <!-- <div>
 <ul class=network-icon aria-hidden=true>
   <li>
