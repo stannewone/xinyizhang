@@ -82,6 +82,7 @@ weight = 20  # Order that this section will appear.
 <span>
   <ul class=network-icon aria-hidden=true>
     <li>🤖️</li>
+    <li>🦉</li>
     <li>🐱</li>
     <li>📹</li>
     <li>🎸</li>
